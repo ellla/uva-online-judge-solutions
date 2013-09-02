@@ -1,8 +1,8 @@
 // UVa Online Judge
 // Problem 11462 - Age Sort
 // Written by Tian Zhou
-// Created 9/1/2013
-// Last Modified 9/1/2013
+// Created 9/1/13
+// Last Modified 9/1/13
 
 #include <cstdlib>
 #include <cstdio>

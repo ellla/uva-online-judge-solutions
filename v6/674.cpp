@@ -1,8 +1,8 @@
 // UVa Online Judge 
 // Problem 674 - Coin Change 
 // Written by Tian Zhou 
-// Created 9/1/2013 
-// Last Modified 9/1/2013 
+// Created 9/1/13
+// Last Modified 9/1/13
   
 #include <iostream> 
 #include <vector> 
